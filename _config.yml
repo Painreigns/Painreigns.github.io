@@ -1,2 +1,4 @@
 theme: jekyll-theme-time-machine
 title: Writeups
+navigation-links:
+  test: Dos_via_Cache_Poisoning
