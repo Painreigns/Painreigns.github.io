@@ -1,5 +1,6 @@
 theme: jekyll-theme-time-machine
 title: Writeups
 navigation-links:
+  payload: test.html
   writeup1: Dos_via_Cache_Poisoning
   writeup2: Pwning_Liferay_Hosted_Application
